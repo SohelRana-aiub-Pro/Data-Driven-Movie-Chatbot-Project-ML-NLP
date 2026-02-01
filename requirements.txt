@@ -1,0 +1,7 @@
+#import os
+streamlit
+pandas
+scikit-learn
+
+requests
+#pip install -r requirements.txt
